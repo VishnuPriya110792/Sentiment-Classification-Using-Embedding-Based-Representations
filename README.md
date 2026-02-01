@@ -1,0 +1,1 @@
+Built an embedding-based sentiment classification system for Twitter data using Sentence Transformers and XGBoost, achieving strong performance across positive, negative, and neutral classes with detailed error analysis.
